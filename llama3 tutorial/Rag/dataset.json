@@ -1,0 +1,938 @@
+[
+    {
+        "question": "¿Cuál es la velocidad máxima permitida en zonas escolares?",
+        "answer": "La velocidad máxima permitida en zonas escolares es de 25 km/h."
+    },
+    {
+        "question": "¿Es obligatorio el uso del cinturón de seguridad?",
+        "answer": "Sí, es obligatorio el uso del cinturón de seguridad para todos los ocupantes del vehículo."
+    },
+    {
+        "question": "¿Cuál es la sanción por conducir bajo la influencia del alcohol?",
+        "answer": "Conducir bajo la influencia del alcohol puede resultar en una multa, la suspensión de la licencia de conducir y posible encarcelamiento."
+    },
+    {
+        "question": "¿Qué documentos deben portar los conductores en todo momento?",
+        "answer": "Los conductores deben portar su licencia de conducir, la tarjeta de circulación del vehículo y el seguro obligatorio."
+    },
+    {
+        "question": "¿Cuál es el límite de velocidad en áreas urbanas?",
+        "answer": "El límite de velocidad en áreas urbanas es generalmente de 50 km/h, a menos que se indique lo contrario."
+    },
+    {
+        "question": "¿Se permite el uso de dispositivos móviles mientras se conduce?",
+        "answer": "No, el uso de dispositivos móviles mientras se conduce está prohibido, a menos que se utilicen dispositivos manos libres."
+    },
+    {
+        "question": "¿Qué se debe hacer en caso de un accidente de tránsito?",
+        "answer": "En caso de un accidente de tránsito, se debe detener el vehículo, prestar auxilio a los heridos, y notificar a las autoridades correspondientes."
+    },
+    {
+        "question": "¿Qué es una falta grave según la Ley de Tránsito?",
+        "answer": "Una falta grave puede incluir exceder el límite de velocidad, conducir bajo la influencia del alcohol, o no respetar las señales de tránsito."
+    },
+    {
+        "question": "¿Qué tipo de vehículos tienen prioridad en las vías públicas?",
+        "answer": "Los vehículos de emergencia, como ambulancias, bomberos y policías, tienen prioridad en las vías públicas."
+    },
+    {
+        "question": "¿Cuándo es obligatorio el uso de luces en el vehículo?",
+        "answer": "Es obligatorio el uso de luces entre las 6:00 p.m. y las 6:00 a.m., y en condiciones de poca visibilidad como lluvia intensa o neblina."
+    },
+    {
+        "question": "¿Qué requisitos deben cumplir las motocicletas para circular?",
+        "answer": "Las motocicletas deben tener licencia de conducir vigente, placa visible, seguro obligatorio y cumplir con las normas técnicas establecidas."
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida en carreteras fuera de áreas urbanas?",
+        "answer": "La velocidad máxima permitida en carreteras fuera de áreas urbanas es de 90 km/h, a menos que se indique lo contrario."
+    },
+    {
+        "question": "¿Está permitido adelantar en curvas o intersecciones?",
+        "answer": "No, adelantar en curvas o intersecciones está prohibido por la Ley de Tránsito."
+    },
+    {
+        "question": "¿Qué debe hacer un conductor al acercarse a un paso de peatones?",
+        "answer": "El conductor debe reducir la velocidad y ceder el paso a los peatones que estén cruzando o que tengan la intención de cruzar."
+    },
+    {
+        "question": "¿Qué sanción se aplica por no respetar un semáforo en rojo?",
+        "answer": "No respetar un semáforo en rojo puede resultar en una multa y la acumulación de puntos en la licencia de conducir."
+    },
+    {
+        "question": "¿Qué indica una línea amarilla continua en la carretera?",
+        "answer": "Una línea amarilla continua indica que está prohibido adelantar."
+    },
+    {
+        "question": "¿Qué debe hacer un conductor cuando escucha una sirena de un vehículo de emergencia?",
+        "answer": "El conductor debe ceder el paso de inmediato y, si es necesario, detenerse para permitir el paso del vehículo de emergencia."
+    },
+    {
+        "question": "¿Está permitido el uso de audífonos mientras se conduce?",
+        "answer": "No, el uso de audífonos que cubran ambos oídos mientras se conduce está prohibido."
+    },
+    {
+        "question": "¿Cuáles son las consecuencias de conducir sin licencia?",
+        "answer": "Conducir sin licencia puede resultar en una multa, la retención del vehículo y la posible inhabilitación para obtener una licencia de conducir por un periodo determinado."
+    },
+    {
+        "question": "¿Qué debe hacer un conductor en un cruce ferroviario sin barreras?",
+        "answer": "El conductor debe detenerse, mirar y escuchar antes de cruzar las vías ferroviarias para asegurarse de que no se aproxima un tren."
+    },
+    {
+        "question": "¿Qué es el seguro obligatorio de automóviles?",
+        "answer": "El seguro obligatorio de automóviles cubre los daños a terceros en caso de un accidente de tránsito."
+    },
+    {
+        "question": "¿Qué significa una señal de tránsito con un círculo rojo y una barra diagonal?",
+        "answer": "Una señal con un círculo rojo y una barra diagonal indica una prohibición, como no estacionar o no girar a la derecha."
+    },
+    {
+        "question": "¿Qué debe hacer un conductor si su vehículo se descompone en la carretera?",
+        "answer": "El conductor debe encender las luces de emergencia, mover el vehículo fuera de la vía si es posible, y señalizar adecuadamente la presencia del vehículo descompuesto."
+    },
+    {
+        "question": "¿Cuándo es obligatorio el uso de sillas de seguridad para niños?",
+        "answer": "El uso de sillas de seguridad para niños es obligatorio para menores de 12 años o que midan menos de 1.45 metros."
+    },
+    {
+        "question": "¿Cuál es la sanción por no portar el seguro obligatorio?",
+        "answer": "No portar el seguro obligatorio puede resultar en una multa y la retención del vehículo."
+    },
+    {
+        "question": "¿Qué debe hacer un conductor antes de cambiar de carril?",
+        "answer": "El conductor debe usar las señales direccionales para indicar su intención y asegurarse de que el carril al que va a moverse esté libre."
+    },
+    {
+        "question": "¿Está permitido estacionar en aceras o pasos de peatones?",
+        "answer": "No, estacionar en aceras o pasos de peatones está prohibido."
+    },
+    {
+        "question": "¿Qué significa una señal de tránsito con una 'P' tachada?",
+        "answer": "Una señal con una 'P' tachada indica que está prohibido estacionar en ese lugar."
+    },
+    {
+        "question": "¿Qué deben hacer los conductores al acercarse a una intersección sin señalización?",
+        "answer": "Los conductores deben reducir la velocidad y ceder el paso a los vehículos que se aproximen por la derecha."
+    },
+    {
+        "question": "¿Qué indica una luz amarilla intermitente en un semáforo?",
+        "answer": "Una luz amarilla intermitente indica que se debe reducir la velocidad y proceder con precaución."
+    },
+    {
+        "question": "¿Qué es una infracción de tránsito leve?",
+        "answer": "Una infracción de tránsito leve puede incluir estacionarse en lugar prohibido, no usar las luces adecuadas, o no respetar una señal de ceda el paso."
+    },
+    {
+        "question": "¿Qué se considera conducción temeraria?",
+        "answer": "La conducción temeraria incluye comportamientos como exceder significativamente el límite de velocidad, zigzaguear entre vehículos, y poner en peligro a otros usuarios de la vía."
+    },
+    {
+        "question": "¿Qué deben hacer los peatones al cruzar una calle?",
+        "answer": "Los peatones deben usar los pasos de peatones, mirar a ambos lados antes de cruzar y obedecer las señales de tránsito."
+    },
+    {
+        "question": "¿Qué significa una línea blanca discontinua en la carretera?",
+        "answer": "Una línea blanca discontinua indica que está permitido adelantar si las condiciones de la vía lo permiten."
+    },
+    {
+        "question": "¿Cuándo deben utilizarse las luces altas del vehículo?",
+        "answer": "Las luces altas deben utilizarse en carreteras sin iluminación suficiente y deben ser bajadas cuando se aproxima otro vehículo en sentido contrario."
+    },
+    {
+        "question": "¿Qué deben hacer los ciclistas para circular de manera segura?",
+        "answer": "Los ciclistas deben usar casco, señalizar sus maniobras, respetar las señales de tránsito y, de ser posible, circular por ciclovías."
+    },
+    {
+        "question": "¿Cuál es la sanción por conducir sin el dispositivo de retención infantil adecuado?",
+        "answer": "La sanción por conducir sin el dispositivo de retención infantil adecuado puede incluir una multa y la acumulación de puntos en la licencia de conducir."
+    },
+    {
+        "question": "¿Qué significa una señal de tránsito triangular con bordes rojos?",
+        "answer": "Una señal triangular con bordes rojos generalmente indica peligro o advertencia, como cruce de peatones o animales en la vía."
+    },
+    {
+        "question": "¿Qué requisitos se necesitan para obtener una licencia de conducir en Costa Rica?",
+        "answer": "Para obtener una licencia de conducir en Costa Rica se necesita ser mayor de 18 años, aprobar el examen teórico y práctico, y presentar un certificado médico."
+    },
+    {
+        "question": "¿Qué tipos de licencias de conducir existen en Costa Rica?",
+        "answer": "En Costa Rica existen varios tipos de licencias de conducir, incluyendo la licencia tipo A para motocicletas, tipo B para vehículos livianos, y tipo C para vehículos pesados."
+    },
+    {
+        "question": "¿Cuál es la vigencia de una licencia de conducir tipo B en Costa Rica?",
+        "answer": "La licencia de conducir tipo B en Costa Rica tiene una vigencia de 6 años."
+    },
+    {
+        "question": "¿Qué se requiere para renovar una licencia de conducir en Costa Rica?",
+        "answer": "Para renovar una licencia de conducir en Costa Rica se necesita presentar un certificado médico actualizado y pagar las tasas correspondientes."
+    },
+    {
+        "question": "¿Qué es una licencia tipo A1?",
+        "answer": "La licencia tipo A1 es para motocicletas con un cilindraje de hasta 125 cc."
+    },
+    {
+        "question": "¿Cuántos puntos se pierden por no usar el cinturón de seguridad?",
+        "answer": "No usar el cinturón de seguridad puede resultar en la pérdida de 4 puntos en la licencia de conducir."
+    },
+    {
+        "question": "¿Qué sanción se aplica por conducir sin licencia?",
+        "answer": "Conducir sin licencia puede resultar en una multa de aproximadamente ₡110,000 y la retención del vehículo."
+    },
+    {
+        "question": "¿Cuál es la multa por exceder el límite de velocidad en más de 40 km/h?",
+        "answer": "Exceder el límite de velocidad en más de 40 km/h puede resultar en una multa de aproximadamente ₡318,000 y la acumulación de puntos en la licencia."
+    },
+    {
+        "question": "¿Cuáles son las sanciones por no respetar las señales de tránsito?",
+        "answer": "No respetar las señales de tránsito puede resultar en una multa y la acumulación de puntos en la licencia de conducir."
+    },
+    {
+        "question": "¿Qué se necesita para obtener una licencia tipo C2?",
+        "answer": "Para obtener una licencia tipo C2 se necesita tener una licencia tipo B vigente, aprobar los exámenes teórico y práctico específicos para vehículos pesados, y presentar un certificado médico."
+    },
+    {
+        "question": "¿Cuál es la sanción por conducir con una licencia suspendida?",
+        "answer": "Conducir con una licencia suspendida puede resultar en una multa de aproximadamente ₡220,000 y la prolongación de la suspensión."
+    },
+    {
+        "question": "¿Qué infracciones conllevan la pérdida de 6 puntos en la licencia?",
+        "answer": "Infracciones como conducir bajo la influencia del alcohol, exceder significativamente el límite de velocidad, y participar en carreras ilegales pueden conllevar la pérdida de 6 puntos en la licencia."
+    },
+    {
+        "question": "¿Cuál es el procedimiento para recuperar puntos en la licencia de conducir?",
+        "answer": "Para recuperar puntos en la licencia de conducir se puede tomar un curso de reeducación vial autorizado por el Ministerio de Obras Públicas y Transportes."
+    },
+    {
+        "question": "¿Qué requisitos se deben cumplir para obtener una licencia tipo B1?",
+        "answer": "Para obtener una licencia tipo B1 se necesita ser mayor de 18 años, aprobar el examen teórico y práctico, y presentar un certificado médico."
+    },
+    {
+        "question": "¿Qué sanción se aplica por estacionar en un lugar prohibido?",
+        "answer": "Estacionar en un lugar prohibido puede resultar en una multa de aproximadamente ₡54,000 y la posible remoción del vehículo."
+    },
+    {
+        "question": "¿Cuál es la sanción por no tener el vehículo al día con la revisión técnica vehicular?",
+        "answer": "No tener el vehículo al día con la revisión técnica vehicular puede resultar en una multa de aproximadamente ₡54,000 y la retención del vehículo hasta que se realice la inspección."
+    },
+    {
+        "question": "¿Qué se necesita para obtener una licencia tipo D?",
+        "answer": "Para obtener una licencia tipo D, que es para vehículos agrícolas o de construcción, se necesita ser mayor de 18 años, aprobar el examen teórico y práctico, y presentar un certificado médico."
+    },
+    {
+        "question": "¿Cuáles son las consecuencias de acumular más de 12 puntos en la licencia de conducir?",
+        "answer": "Acumular más de 12 puntos en la licencia de conducir puede resultar en la suspensión de la licencia por un periodo de tiempo determinado y la obligación de tomar un curso de reeducación vial."
+    },
+    {
+        "question": "¿Qué infracción se considera muy grave según la Ley de Tránsito?",
+        "answer": "Infracciones muy graves pueden incluir conducir bajo la influencia del alcohol, participar en carreras ilegales y exceder significativamente el límite de velocidad."
+    },
+    {
+        "question": "¿Qué se necesita para obtener una licencia tipo E?",
+        "answer": "La licencia tipo E es para la conducción de vehículos especiales como grúas y vehículos de emergencia. Para obtenerla se necesita tener una licencia tipo B o C vigente, aprobar los exámenes teórico y práctico específicos, y presentar un certificado médico."
+    },
+    {
+        "question": "¿Qué es el Código de Comercio?",
+        "answer": "El Código de Comercio es un conjunto de leyes que regulan las relaciones comerciales y mercantiles en Costa Rica."
+    },
+    {
+        "question": "¿Qué establece el Código de Comercio sobre la constitución de sociedades mercantiles?",
+        "answer": "El Código de Comercio establece que las sociedades mercantiles deben constituirse mediante escritura pública e inscribirse en el Registro Público para adquirir personalidad jurídica."
+    },
+    {
+        "question": "¿Cuáles son los tipos de sociedades mercantiles reconocidos por el Código de Comercio?",
+        "answer": "Los tipos de sociedades mercantiles reconocidos incluyen la sociedad anónima, la sociedad de responsabilidad limitada, la sociedad en comandita simple, y la sociedad en nombre colectivo."
+    },
+    {
+        "question": "¿Qué es un comerciante según el Código de Comercio?",
+        "answer": "Un comerciante es cualquier persona física o jurídica que realiza actos de comercio de manera habitual y profesional."
+    },
+    {
+        "question": "¿Qué requisitos debe cumplir una sociedad anónima para su constitución?",
+        "answer": "Una sociedad anónima debe tener al menos dos socios, un capital mínimo establecido, y presentar una escritura pública que detalle su constitución."
+    },
+    {
+        "question": "¿Qué función tiene el Registro Mercantil según el Código de Comercio?",
+        "answer": "El Registro Mercantil es la entidad encargada de inscribir y mantener un registro de las sociedades mercantiles, actos y contratos comerciales."
+    },
+    {
+        "question": "¿Qué obligaciones tienen los comerciantes respecto a la contabilidad?",
+        "answer": "Los comerciantes deben llevar una contabilidad ordenada y completa de sus operaciones comerciales, incluyendo libros de contabilidad obligatorios como el libro diario y el libro mayor."
+    },
+    {
+        "question": "¿Qué es un contrato de compraventa mercantil?",
+        "answer": "Un contrato de compraventa mercantil es un acuerdo entre dos partes en el que una parte se obliga a entregar un bien y la otra a pagar un precio por él, en el ámbito de su actividad comercial."
+    },
+    {
+        "question": "¿Qué establece el Código de Comercio sobre la quiebra de una empresa?",
+        "answer": "El Código de Comercio establece los procedimientos para la declaración de quiebra, incluyendo la intervención judicial y la liquidación de los bienes del deudor para pagar a los acreedores."
+    },
+    {
+        "question": "¿Cuáles son los derechos de los socios en una sociedad mercantil?",
+        "answer": "Los socios tienen derechos como participar en las decisiones de la sociedad, recibir beneficios o dividendos, y acceder a la información financiera de la sociedad."
+    },
+    {
+        "question": "¿Qué es un pagaré según el Código de Comercio?",
+        "answer": "Un pagaré es un título de crédito en el que una persona se compromete a pagar a otra una suma de dinero en una fecha determinada."
+    },
+    {
+        "question": "¿Qué diferencia hay entre una sociedad anónima y una sociedad de responsabilidad limitada?",
+        "answer": "En una sociedad anónima, el capital está dividido en acciones y los accionistas no responden personalmente por las deudas de la sociedad. En una sociedad de responsabilidad limitada, el capital está dividido en participaciones y los socios tienen una responsabilidad limitada al monto de sus aportaciones."
+    },
+    {
+        "question": "¿Qué es un endoso en un cheque?",
+        "answer": "Un endoso es la firma que el tenedor de un cheque coloca en el reverso del mismo para transferirlo a otra persona."
+    },
+    {
+        "question": "¿Qué establece el Código de Comercio sobre los contratos de sociedad?",
+        "answer": "El Código de Comercio establece que los contratos de sociedad deben constar por escrito y ser inscritos en el Registro Mercantil para ser válidos y oponibles a terceros."
+    },
+    {
+        "question": "¿Qué es una letra de cambio?",
+        "answer": "Una letra de cambio es un documento mercantil en el que una persona ordena a otra pagar una suma de dinero a un tercero en una fecha determinada."
+    },
+    {
+        "question": "¿Qué obligaciones tienen los administradores de una sociedad mercantil?",
+        "answer": "Los administradores tienen la obligación de actuar con diligencia y lealtad, representar a la sociedad, llevar la contabilidad adecuada y rendir cuentas a los socios."
+    },
+    {
+        "question": "¿Qué es un contrato de arrendamiento mercantil?",
+        "answer": "Un contrato de arrendamiento mercantil es un acuerdo por el cual una parte cede el uso de un bien mueble o inmueble a otra parte a cambio de un pago periódico."
+    },
+    {
+        "question": "¿Qué es el capital social en una sociedad mercantil?",
+        "answer": "El capital social es el monto de dinero o bienes aportados por los socios al constituir la sociedad, que sirve como garantía frente a terceros."
+    },
+    {
+        "question": "¿Qué responsabilidad tienen los socios comanditarios en una sociedad en comandita?",
+        "answer": "Los socios comanditarios tienen una responsabilidad limitada al monto de sus aportaciones y no participan en la gestión de la sociedad."
+    },
+    {
+        "question": "¿Qué es un acto de comercio según el Código de Comercio?",
+        "answer": "Un acto de comercio es cualquier transacción o negocio realizado con fines de lucro, que incluye compra y venta de bienes, prestación de servicios, y operaciones bancarias y financieras."
+    },
+    {
+        "question": "¿Qué establece el Código de Comercio sobre la disolución de sociedades mercantiles?",
+        "answer": "El Código de Comercio establece que una sociedad mercantil se puede disolver por acuerdo de los socios, por expiración del término fijado en el contrato social, por imposibilidad de realizar el objeto social, entre otras causas."
+    },
+    {
+        "question": "¿Qué es un título valor según el Código de Comercio?",
+        "answer": "Un título valor es un documento que representa un derecho crediticio o de propiedad, como cheques, letras de cambio y pagarés."
+    },
+    {
+        "question": "¿Qué es una junta general de accionistas?",
+        "answer": "Una junta general de accionistas es una reunión de los socios de una sociedad anónima en la que se toman decisiones importantes para la empresa, como la aprobación de cuentas y la elección de administradores."
+    },
+    {
+        "question": "¿Qué establece el Código de Comercio sobre la responsabilidad de los socios en una sociedad en nombre colectivo?",
+        "answer": "En una sociedad en nombre colectivo, los socios tienen responsabilidad ilimitada y solidaria por las deudas de la sociedad."
+    },
+    {
+        "question": "¿Qué es un contrato de agencia mercantil?",
+        "answer": "Un contrato de agencia mercantil es un acuerdo en el que una parte, el agente, se obliga a promover y negociar operaciones mercantiles por cuenta de otra, el empresario, de manera continuada y a cambio de una retribución."
+    },
+    {
+        "question": "¿Qué requisitos establece el Código de Comercio para los contratos de transporte de mercancías?",
+        "answer": "Los contratos de transporte de mercancías deben especificar las condiciones del transporte, las responsabilidades del transportista, y las obligaciones del remitente y del destinatario."
+    },
+    {
+        "question": "¿Qué es un fideicomiso según el Código de Comercio?",
+        "answer": "Un fideicomiso es un contrato en el que una persona, el fideicomitente, transfiere bienes a otra, el fiduciario, para que los administre o disponga de ellos en beneficio de un tercero, el beneficiario."
+    },
+    {
+        "question": "¿Qué establece el Código de Comercio sobre la competencia desleal?",
+        "answer": "El Código de Comercio establece que la competencia desleal, como la divulgación de secretos comerciales y la publicidad engañosa, es ilegal y puede ser sancionada."
+    },
+    {
+        "question": "¿Qué es un contrato de comisión mercantil?",
+        "answer": "Un contrato de comisión mercantil es un acuerdo en el que una persona, el comisionista, se obliga a realizar actos de comercio por cuenta de otra, el comitente, a cambio de una remuneración."
+    },
+    {
+        "question": "¿Qué responsabilidades tiene el depositario en un contrato de depósito mercantil?",
+        "answer": "El depositario tiene la responsabilidad de custodiar y conservar los bienes depositados, devolverlos al término del contrato y responder por cualquier daño o pérdida de los bienes bajo su custodia."
+    },
+    {
+        "question": "¿Qué es el Código Penal?",
+        "answer": "El Código Penal es el conjunto de normas legales que establece los delitos y las penas en Costa Rica."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el homicidio?",
+        "answer": "El Código Penal establece que el homicidio es el acto de causar la muerte a otra persona y fija las penas correspondientes según las circunstancias del delito."
+    },
+    {
+        "question": "¿Qué pena se impone por el delito de robo agravado según el Código Penal?",
+        "answer": "El delito de robo agravado puede conllevar una pena de prisión de 5 a 15 años, dependiendo de las circunstancias agravantes."
+    },
+    {
+        "question": "¿Cuál es la diferencia entre hurto y robo según el Código Penal?",
+        "answer": "El hurto es la apropiación de un bien ajeno sin violencia o intimidación, mientras que el robo implica el uso de fuerza o amenazas para obtener el bien."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre la violación?",
+        "answer": "El Código Penal establece que la violación es el acto de acceso carnal con otra persona sin su consentimiento y fija penas de prisión severas para quienes cometan este delito."
+    },
+    {
+        "question": "¿Qué es un delito contra la propiedad?",
+        "answer": "Un delito contra la propiedad es cualquier acto ilegal que atenta contra los bienes de otra persona, como el hurto, robo, daño a la propiedad y estafa."
+    },
+    {
+        "question": "¿Qué sanciones establece el Código Penal para el tráfico de drogas?",
+        "answer": "El Código Penal impone penas severas de prisión para el tráfico de drogas, que pueden variar entre 8 y 20 años, dependiendo de la cantidad y el tipo de droga."
+    },
+    {
+        "question": "¿Qué es el delito de falsificación según el Código Penal?",
+        "answer": "El delito de falsificación consiste en la creación o alteración de documentos, monedas u otros objetos con la intención de engañar o defraudar."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el abuso de autoridad?",
+        "answer": "El abuso de autoridad es el uso indebido de poder por parte de un funcionario público para obtener un beneficio propio o perjudicar a terceros, y es sancionado con penas de prisión y destitución del cargo."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de estafa según el Código Penal?",
+        "answer": "El delito de estafa puede ser castigado con penas de prisión que varían entre 1 y 10 años, dependiendo de la magnitud del fraude y el daño causado."
+    },
+    {
+        "question": "¿Qué se considera un delito de lesiones según el Código Penal?",
+        "answer": "Un delito de lesiones es cualquier acto que cause daño físico o psicológico a otra persona, y puede ser castigado con penas de prisión que varían según la gravedad de las lesiones."
+    },
+    {
+        "question": "¿Qué es el delito de lavado de dinero?",
+        "answer": "El lavado de dinero es el proceso de ocultar el origen ilícito de fondos obtenidos a través de actividades delictivas, haciéndolos parecer legítimos."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre la tentativa de delito?",
+        "answer": "La tentativa de delito es cuando una persona intenta cometer un delito pero no lo consuma, y puede ser castigada con una pena menor que la del delito consumado."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de corrupción según el Código Penal?",
+        "answer": "El delito de corrupción puede conllevar penas de prisión que varían entre 2 y 10 años, dependiendo del tipo y gravedad del acto corrupto."
+    },
+    {
+        "question": "¿Qué es un delito de cohecho según el Código Penal?",
+        "answer": "El cohecho es el acto de ofrecer o recibir sobornos para realizar o abstenerse de realizar un acto relacionado con las funciones de un funcionario público."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre los delitos sexuales?",
+        "answer": "El Código Penal incluye varios delitos sexuales, como el abuso sexual, la violación y la explotación sexual, y establece penas severas para quienes los cometan."
+    },
+    {
+        "question": "¿Qué es el delito de secuestro según el Código Penal?",
+        "answer": "El secuestro es la privación ilegal de la libertad de una persona con el fin de obtener un rescate o cualquier otro beneficio, y se castiga con penas de prisión severas."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de homicidio culposo según el Código Penal?",
+        "answer": "El homicidio culposo, que es causado por negligencia o imprudencia, puede ser castigado con penas de prisión que varían entre 6 meses y 8 años, dependiendo de las circunstancias."
+    },
+    {
+        "question": "¿Qué se considera un delito contra el honor según el Código Penal?",
+        "answer": "Delitos contra el honor incluyen la difamación, la calumnia y la injuria, que son actos que afectan la reputación y dignidad de una persona."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre la reincidencia en delitos?",
+        "answer": "El Código Penal establece que la reincidencia, o cometer un nuevo delito tras haber sido condenado previamente, puede resultar en penas más severas."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de abuso sexual contra menores?",
+        "answer": "El Código Penal sanciona severamente el abuso sexual contra menores con penas que varían entre 4 y 10 años de prisión, dependiendo de la gravedad del acto y la edad de la víctima."
+    },
+    {
+        "question": "¿Qué es el delito de usurpación según el Código Penal?",
+        "answer": "El delito de usurpación consiste en apoderarse ilegítimamente de un bien inmueble o derechos ajenos y puede ser castigado con penas de prisión de 1 a 3 años."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de lesiones gravísimas según el Código Penal?",
+        "answer": "El delito de lesiones gravísimas, que causa un daño permanente a la salud o la integridad física, puede conllevar una pena de prisión de 3 a 10 años."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de difamación?",
+        "answer": "El Código Penal establece que la difamación, que consiste en atribuir falsamente a una persona hechos que afecten su honor o reputación, puede ser castigada con penas de prisión de 1 a 3 años."
+    },
+    {
+        "question": "¿Qué es el delito de instigación a delinquir según el Código Penal?",
+        "answer": "La instigación a delinquir es el acto de inducir a otra persona a cometer un delito y se castiga con penas de prisión que varían según el delito instigado."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de tráfico de influencias?",
+        "answer": "El tráfico de influencias es el uso indebido de influencias personales para obtener beneficios, y puede ser castigado con penas de prisión de 2 a 5 años."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de amenazas según el Código Penal?",
+        "answer": "El delito de amenazas, que consiste en intimidar a una persona con causarle un mal, puede ser castigado con penas de prisión de 6 meses a 2 años."
+    },
+    {
+        "question": "¿Qué es el delito de desobediencia a la autoridad según el Código Penal?",
+        "answer": "La desobediencia a la autoridad es el acto de no acatar órdenes legales de una autoridad competente y puede ser castigado con penas de prisión de 1 a 3 años."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de falsedad ideológica?",
+        "answer": "El delito de falsedad ideológica consiste en alterar la verdad en un documento público o privado con la intención de engañar, y puede ser castigado con penas de prisión de 1 a 6 años."
+    },
+    {
+        "question": "¿Qué es el delito de prevaricato según el Código Penal?",
+        "answer": "El prevaricato es el acto de un funcionario público que dicta una resolución arbitraria en un asunto administrativo o judicial, y se castiga con penas de prisión de 1 a 5 años."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de secuestro extorsivo?",
+        "answer": "El secuestro extorsivo, que es la privación ilegal de libertad con el fin de obtener rescate, se castiga con penas de prisión de 10 a 20 años."
+    },
+    {
+        "question": "¿Qué es el delito de encubrimiento según el Código Penal?",
+        "answer": "El encubrimiento es el acto de ayudar a alguien a eludir la justicia después de haber cometido un delito, y se castiga con penas de prisión de 1 a 5 años."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de receptación según el Código Penal?",
+        "answer": "La receptación, que consiste en adquirir, recibir o esconder bienes procedentes de un delito, se castiga con penas de prisión de 1 a 6 años."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de calumnia?",
+        "answer": "El delito de calumnia, que es acusar falsamente a alguien de un delito, puede ser castigado con penas de prisión de 1 a 3 años."
+    },
+    {
+        "question": "¿Qué es el delito de lesiones culposas según el Código Penal?",
+        "answer": "Las lesiones culposas son aquellas causadas por negligencia o imprudencia, y pueden ser castigadas con penas de prisión de 6 meses a 2 años."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de maltrato animal según el Código Penal?",
+        "answer": "El maltrato animal puede ser castigado con penas de prisión de 6 meses a 2 años, dependiendo de la gravedad del maltrato."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de coacción?",
+        "answer": "El delito de coacción es obligar a alguien a hacer o no hacer algo mediante el uso de la fuerza o intimidación, y se castiga con penas de prisión de 1 a 3 años."
+    },
+    {
+        "question": "¿Qué es el delito de allanamiento de morada según el Código Penal?",
+        "answer": "El allanamiento de morada es la entrada ilegal en una vivienda o establecimiento cerrado, y se castiga con penas de prisión de 1 a 3 años."
+    },
+    {
+        "question": "¿Qué establece el Código Penal sobre el delito de tráfico de personas?",
+        "answer": "El tráfico de personas, que consiste en la captación y transporte de personas con fines de explotación, se castiga con penas de prisión de 6 a 12 años."
+    },
+    {
+        "question": "¿Cuál es la pena por el delito de abuso de confianza según el Código Penal?",
+        "answer": "El abuso de confianza, que implica apropiarse de bienes ajenos aprovechando una posición de confianza, puede ser castigado con penas de prisión de 1 a 5 años."
+    },
+    {
+        "question": "¿Qué es la Constitución Política de Costa Rica?",
+        "answer": "La Constitución Política de Costa Rica es la ley fundamental que establece la organización del Estado, los derechos y deberes de los ciudadanos, y los principios fundamentales del ordenamiento jurídico del país."
+    },
+    {
+        "question": "¿Cuándo fue promulgada la actual Constitución Política de Costa Rica?",
+        "answer": "La actual Constitución Política de Costa Rica fue promulgada el 7 de noviembre de 1949."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la forma de gobierno de Costa Rica?",
+        "answer": "La Constitución establece que Costa Rica es una república democrática, libre e independiente."
+    },
+    {
+        "question": "¿Qué derechos fundamentales garantiza la Constitución Política de Costa Rica?",
+        "answer": "La Constitución garantiza derechos fundamentales como la libertad, la igualdad, la justicia, el derecho a la vida, la libertad de expresión, la propiedad privada y la protección social, entre otros."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la división de poderes en Costa Rica?",
+        "answer": "La Constitución establece la división de poderes en tres ramas independientes: el Poder Ejecutivo, el Poder Legislativo y el Poder Judicial."
+    },
+    {
+        "question": "¿Quién es el jefe del Poder Ejecutivo según la Constitución?",
+        "answer": "El jefe del Poder Ejecutivo es el Presidente de la República, quien es elegido por voto popular."
+    },
+    {
+        "question": "¿Qué funciones tiene la Asamblea Legislativa según la Constitución?",
+        "answer": "La Asamblea Legislativa tiene funciones legislativas, como la elaboración y aprobación de leyes, la fiscalización del gobierno, y la aprobación del presupuesto nacional."
+    },
+    {
+        "question": "¿Cómo se elige a los diputados de la Asamblea Legislativa?",
+        "answer": "Los diputados de la Asamblea Legislativa se eligen mediante voto popular en elecciones generales cada cuatro años."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre el Poder Judicial?",
+        "answer": "La Constitución establece que el Poder Judicial es independiente y está encargado de la administración de justicia en el país."
+    },
+    {
+        "question": "¿Qué es la Sala Constitucional y cuál es su función?",
+        "answer": "La Sala Constitucional es parte de la Corte Suprema de Justicia y su función es interpretar la Constitución y resolver los recursos de amparo y hábeas corpus."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre los derechos laborales?",
+        "answer": "La Constitución establece derechos laborales como el derecho a un salario mínimo, la jornada laboral de ocho horas, el derecho a la sindicalización y la huelga, y la protección contra el despido injustificado."
+    },
+    {
+        "question": "¿Qué dice la Constitución sobre la educación en Costa Rica?",
+        "answer": "La Constitución establece que la educación es obligatoria, gratuita y está a cargo del Estado, desde la educación preescolar hasta la educación secundaria."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la propiedad privada?",
+        "answer": "La Constitución garantiza el derecho a la propiedad privada y establece que esta solo puede ser expropiada por causa de utilidad pública y previa indemnización."
+    },
+    {
+        "question": "¿Qué derechos políticos garantiza la Constitución Política de Costa Rica?",
+        "answer": "La Constitución garantiza derechos políticos como el derecho al voto, el derecho a ser elegido para cargos públicos, y la participación en partidos políticos."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la protección del medio ambiente?",
+        "answer": "La Constitución establece que toda persona tiene derecho a un ambiente sano y ecológicamente equilibrado, y que el Estado debe garantizar y preservar el medio ambiente."
+    },
+    {
+        "question": "¿Qué dice la Constitución sobre la nacionalidad costarricense?",
+        "answer": "La Constitución establece que son costarricenses por nacimiento las personas nacidas en el territorio nacional, así como los hijos de padre o madre costarricenses nacidos en el extranjero, y también regula la adquisición de la nacionalidad por naturalización."
+    },
+    {
+        "question": "¿Qué es el Tribunal Supremo de Elecciones y cuál es su función según la Constitución?",
+        "answer": "El Tribunal Supremo de Elecciones es el órgano encargado de la organización, dirección y vigilancia de los procesos electorales en Costa Rica, y es independiente de los demás poderes del Estado."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre el estado de emergencia?",
+        "answer": "La Constitución establece que el Presidente de la República, en acuerdo con el Consejo de Gobierno, puede declarar el estado de emergencia en casos de invasión, guerra, conmoción interna, o desastre natural, y tomar medidas extraordinarias para enfrentar la situación."
+    },
+    {
+        "question": "¿Cómo puede ser reformada la Constitución Política de Costa Rica?",
+        "answer": "La Constitución puede ser reformada mediante un proyecto de ley aprobado por dos tercios del total de los miembros de la Asamblea Legislativa y posteriormente ratificado por el Tribunal Supremo de Elecciones."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre los tratados internacionales?",
+        "answer": "La Constitución establece que los tratados internacionales deben ser aprobados por la Asamblea Legislativa y, una vez ratificados, tienen una jerarquía superior a las leyes ordinarias del país."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la libertad de expresión?",
+        "answer": "La Constitución garantiza la libertad de expresión, permitiendo a todos los ciudadanos expresar sus pensamientos sin censura previa, pero con responsabilidad por los abusos que cometan en el ejercicio de este derecho."
+    },
+    {
+        "question": "¿Qué dice la Constitución sobre el derecho a la salud?",
+        "answer": "La Constitución establece que la salud es un derecho fundamental de todos los habitantes de Costa Rica y que es responsabilidad del Estado garantizar y preservar la salud pública."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la religión en Costa Rica?",
+        "answer": "La Constitución establece que la religión católica es la religión oficial del Estado, pero garantiza la libertad de culto para todas las personas en el país."
+    },
+    {
+        "question": "¿Qué derechos relacionados con el trabajo protege la Constitución?",
+        "answer": "La Constitución protege derechos laborales como la igualdad de oportunidades y trato, la seguridad social, el derecho a un salario justo, y la prohibición del trabajo forzado y de la explotación infantil."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre la inviolabilidad de la correspondencia?",
+        "answer": "La Constitución establece que la correspondencia es inviolable, y ninguna carta o comunicación privada puede ser interceptada o divulgada sin el consentimiento del remitente y del destinatario, salvo por mandato judicial."
+    },
+    {
+        "question": "¿Qué dice la Constitución sobre el derecho de asociación?",
+        "answer": "La Constitución garantiza el derecho de asociación, permitiendo a los ciudadanos formar asociaciones y sindicatos libremente, siempre y cuando sus fines sean lícitos y pacíficos."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre el derecho a la vivienda?",
+        "answer": "La Constitución reconoce el derecho a una vivienda digna y adecuada, y establece que el Estado debe promover políticas para asegurar que todos los habitantes tengan acceso a una vivienda."
+    },
+    {
+        "question": "¿Qué principios rigen el sistema educativo según la Constitución?",
+        "answer": "El sistema educativo en Costa Rica se rige por principios de obligatoriedad, gratuidad y accesibilidad, con el objetivo de formar ciudadanos con valores éticos y cívicos."
+    },
+    {
+        "question": "¿Qué establece la Constitución sobre el derecho de petición?",
+        "answer": "La Constitución establece que todos los ciudadanos tienen el derecho de petición, que les permite solicitar información o presentar quejas y sugerencias a las autoridades públicas, las cuales deben responder en un tiempo razonable."
+    },
+    {
+        "question": "¿Qué derechos protege la Constitución en relación con la familia?",
+        "answer": "La Constitución protege la institución de la familia y garantiza derechos como la protección a la maternidad, la paternidad responsable, y el derecho de los niños a un entorno familiar seguro y estable."
+    },
+    {
+        "question": "¿Qué es el Código Electoral de Costa Rica?",
+        "answer": "El Código Electoral de Costa Rica es el conjunto de normas que regula el proceso electoral, las funciones del Tribunal Supremo de Elecciones y los derechos y deberes de los ciudadanos en materia electoral."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre el sufragio?",
+        "answer": "El Código Electoral establece que el sufragio es un derecho y deber cívico de todos los ciudadanos costarricenses mayores de 18 años, y debe ser libre, secreto y obligatorio."
+    },
+    {
+        "question": "¿Qué es el Tribunal Supremo de Elecciones según el Código Electoral?",
+        "answer": "El Tribunal Supremo de Elecciones es el órgano encargado de la organización, dirección y vigilancia de todos los procesos electorales en Costa Rica, y es independiente de los demás poderes del Estado."
+    },
+    {
+        "question": "¿Cuáles son las funciones del Tribunal Supremo de Elecciones?",
+        "answer": "Las funciones del Tribunal Supremo de Elecciones incluyen la organización y supervisión de las elecciones, la inscripción de votantes, la supervisión de partidos políticos, y la resolución de disputas electorales."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la inscripción de votantes?",
+        "answer": "El Código Electoral establece que todos los ciudadanos costarricenses mayores de 18 años deben inscribirse en el Registro Civil para poder ejercer su derecho al voto."
+    },
+    {
+        "question": "¿Cómo se financian los partidos políticos según el Código Electoral?",
+        "answer": "El Código Electoral establece que los partidos políticos pueden financiarse mediante contribuciones privadas, donaciones y el financiamiento estatal, conocido como deuda política, que se otorga con base en la cantidad de votos obtenidos en las elecciones."
+    },
+    {
+        "question": "¿Qué es la deuda política según el Código Electoral?",
+        "answer": "La deuda política es el financiamiento estatal que se otorga a los partidos políticos en función de los votos que obtienen en las elecciones, para cubrir los gastos de campaña."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la propaganda electoral?",
+        "answer": "El Código Electoral regula la propaganda electoral, estableciendo periodos específicos en los que puede realizarse, así como restricciones sobre el contenido y los medios utilizados para evitar la desinformación y garantizar la equidad."
+    },
+    {
+        "question": "¿Qué es el padrón electoral?",
+        "answer": "El padrón electoral es el registro oficial de todos los ciudadanos habilitados para votar en una elección, y es actualizado y administrado por el Tribunal Supremo de Elecciones."
+    },
+    {
+        "question": "¿Qué requisitos deben cumplir los candidatos a la Presidencia según el Código Electoral?",
+        "answer": "Los candidatos a la Presidencia deben ser costarricenses por nacimiento, mayores de 30 años, estar en pleno goce de sus derechos civiles y políticos, y no tener impedimentos legales establecidos en la Constitución y el Código Electoral."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la participación de mujeres en política?",
+        "answer": "El Código Electoral establece la paridad de género y la alternancia en las listas de candidatos, para garantizar la participación equitativa de mujeres y hombres en los puestos de elección popular."
+    },
+    {
+        "question": "¿Qué es un referéndum según el Código Electoral?",
+        "answer": "Un referéndum es un mecanismo de consulta popular en el que los ciudadanos votan directamente sobre una propuesta legislativa o una reforma constitucional."
+    },
+    {
+        "question": "¿Cómo se realiza el escrutinio de votos según el Código Electoral?",
+        "answer": "El escrutinio de votos se realiza en dos etapas: un escrutinio provisional en las mesas de votación al cierre de las urnas y un escrutinio definitivo llevado a cabo por el Tribunal Supremo de Elecciones."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la fiscalización de los procesos electorales?",
+        "answer": "El Código Electoral establece que el Tribunal Supremo de Elecciones debe fiscalizar y garantizar la transparencia, legalidad y equidad de todos los procesos electorales en Costa Rica."
+    },
+    {
+        "question": "¿Qué es la observación electoral según el Código Electoral?",
+        "answer": "La observación electoral es la supervisión y monitoreo de los procesos electorales por parte de organizaciones nacionales e internacionales para asegurar su transparencia y legitimidad."
+    },
+    {
+        "question": "¿Qué sanciones establece el Código Electoral para el fraude electoral?",
+        "answer": "El Código Electoral establece sanciones penales y administrativas para el fraude electoral, que pueden incluir multas, prisión y la inhabilitación para ejercer cargos públicos."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la reelección de diputados?",
+        "answer": "El Código Electoral permite la reelección de diputados para periodos consecutivos, siempre y cuando sean electos nuevamente por los votantes."
+    },
+    {
+        "question": "¿Qué es un partido político según el Código Electoral?",
+        "answer": "Un partido político es una organización formada por ciudadanos con el propósito de participar en los procesos electorales, promover determinadas políticas y valores, y acceder a cargos públicos mediante el voto."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la convocatoria a elecciones?",
+        "answer": "El Código Electoral establece que el Tribunal Supremo de Elecciones debe convocar a elecciones generales al menos cuatro meses antes de la fecha de votación."
+    },
+    {
+        "question": "¿Qué mecanismos de participación ciudadana contempla el Código Electoral?",
+        "answer": "El Código Electoral contempla mecanismos de participación ciudadana como el referéndum, el plebiscito y la iniciativa popular, para permitir a los ciudadanos influir directamente en decisiones políticas."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la inscripción de partidos políticos?",
+        "answer": "El Código Electoral establece que los partidos políticos deben inscribirse ante el Tribunal Supremo de Elecciones, cumpliendo con requisitos como la presentación de estatutos, el registro de miembros y la elección de sus órganos internos."
+    },
+    {
+        "question": "¿Qué es la consulta popular según el Código Electoral?",
+        "answer": "La consulta popular es un proceso mediante el cual los ciudadanos pueden expresar su opinión sobre asuntos de interés público a través del voto, y puede ser convocada por el gobierno o por iniciativa ciudadana."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre la transparencia en el financiamiento de campañas?",
+        "answer": "El Código Electoral establece que los partidos políticos deben llevar un registro detallado de sus ingresos y gastos de campaña, y deben presentar informes financieros al Tribunal Supremo de Elecciones para garantizar la transparencia y el uso adecuado de los recursos."
+    },
+    {
+        "question": "¿Qué es la segunda ronda electoral según el Código Electoral?",
+        "answer": "La segunda ronda electoral es un mecanismo utilizado cuando ningún candidato a la Presidencia obtiene más del 40% de los votos válidos en la primera ronda. Los dos candidatos con mayor cantidad de votos compiten nuevamente para definir al ganador."
+    },
+    {
+        "question": "¿Qué establece el Código Electoral sobre el voto en el extranjero?",
+        "answer": "El Código Electoral permite que los ciudadanos costarricenses que residen en el extranjero puedan ejercer su derecho al voto en las embajadas y consulados de Costa Rica en el exterior."
+    },
+    {
+        "question": "¿Qué medidas de accesibilidad establece el Código Electoral para personas con discapacidad?",
+        "answer": "El Código Electoral establece que deben tomarse medidas para asegurar la accesibilidad de las personas con discapacidad a los centros de votación, así como proporcionarles el apoyo necesario para ejercer su derecho al voto."
+    },
+    {
+        "question": "¿Qué es el Código Civil de Costa Rica?",
+        "answer": "El Código Civil de Costa Rica es el conjunto de normas que regulan las relaciones civiles entre las personas, incluyendo derechos y obligaciones, contratos, propiedad, familia y sucesiones."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la capacidad jurídica?",
+        "answer": "El Código Civil establece que todas las personas tienen capacidad jurídica, desde el nacimiento hasta la muerte, aunque esta capacidad puede estar limitada por razones de edad o discapacidad."
+    },
+    {
+        "question": "¿Qué es el patrimonio según el Código Civil?",
+        "answer": "El patrimonio es el conjunto de bienes, derechos y obligaciones de una persona, y es considerado como una universalidad jurídica indivisible."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la propiedad privada?",
+        "answer": "El Código Civil establece que la propiedad privada es el derecho que tiene una persona sobre un bien para usarlo, disfrutarlo y disponer de él, dentro de los límites y con las obligaciones que la ley establece."
+    },
+    {
+        "question": "¿Qué es el usufructo según el Código Civil?",
+        "answer": "El usufructo es un derecho real que permite a una persona usar y disfrutar temporalmente de los bienes de otra persona, sin alterar su sustancia ni su propiedad."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre las obligaciones contractuales?",
+        "answer": "El Código Civil establece que las obligaciones contractuales son vínculos jurídicos por los cuales una persona se compromete frente a otra a dar, hacer o no hacer alguna cosa, y deben ser cumplidas de buena fe."
+    },
+    {
+        "question": "¿Qué es un contrato de compraventa según el Código Civil?",
+        "answer": "Un contrato de compraventa es un acuerdo por el cual una parte se obliga a transferir la propiedad de un bien a otra parte, que a su vez se compromete a pagar un precio cierto y en dinero."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la nulidad de los contratos?",
+        "answer": "El Código Civil establece que los contratos son nulos cuando carecen de alguno de los requisitos esenciales, como el consentimiento, el objeto y la causa lícita, o cuando contravienen normas de orden público."
+    },
+    {
+        "question": "¿Qué es la prescripción según el Código Civil?",
+        "answer": "La prescripción es un medio de adquirir derechos o liberarse de obligaciones por el transcurso del tiempo y bajo las condiciones establecidas por la ley."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre el matrimonio?",
+        "answer": "El Código Civil regula el matrimonio como una institución social y jurídica, estableciendo los requisitos para su celebración, los derechos y deberes de los cónyuges, y las causas de nulidad y disolución."
+    },
+    {
+        "question": "¿Qué derechos y deberes tienen los cónyuges según el Código Civil?",
+        "answer": "El Código Civil establece que los cónyuges tienen el deber de cohabitar, guardarse fidelidad, asistirse mutuamente, y contribuir a los fines del matrimonio y al sostenimiento del hogar."
+    },
+    {
+        "question": "¿Qué es la patria potestad según el Código Civil?",
+        "answer": "La patria potestad es el conjunto de derechos y deberes que tienen los padres sobre sus hijos menores de edad, para su cuidado, educación, representación y administración de sus bienes."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la adopción?",
+        "answer": "El Código Civil regula la adopción como una institución que permite establecer entre el adoptante y el adoptado una relación de parentesco similar a la paternidad o maternidad biológica, estableciendo los requisitos y efectos legales correspondientes."
+    },
+    {
+        "question": "¿Qué es la sucesión testamentaria según el Código Civil?",
+        "answer": "La sucesión testamentaria es el proceso mediante el cual se transmiten los bienes, derechos y obligaciones de una persona fallecida a sus herederos, conforme a lo dispuesto en su testamento."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la herencia legítima?",
+        "answer": "La herencia legítima es la parte de los bienes de una persona fallecida que la ley reserva para ciertos herederos forzosos, como los hijos, el cónyuge sobreviviente y los padres, independientemente de lo dispuesto en el testamento."
+    },
+    {
+        "question": "¿Qué es una donación según el Código Civil?",
+        "answer": "Una donación es un acto jurídico por el cual una persona transfiere gratuitamente a otra la propiedad de un bien, y puede ser de bienes presentes o futuros, con ciertas limitaciones legales."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la responsabilidad civil?",
+        "answer": "El Código Civil establece que toda persona que cause un daño a otra por acción u omisión, con dolo o culpa, está obligada a reparar el daño causado, mediante la indemnización correspondiente."
+    },
+    {
+        "question": "¿Qué es la tutela según el Código Civil?",
+        "answer": "La tutela es una institución jurídica que tiene como objetivo la protección y representación de menores de edad no emancipados y de personas declaradas incapaces, a través de la figura del tutor."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre los bienes inmuebles?",
+        "answer": "El Código Civil regula los bienes inmuebles como aquellos que no pueden trasladarse de un lugar a otro, como tierras, edificios y construcciones adheridas al suelo, y establece las normas para su adquisición, uso y disposición."
+    },
+    {
+        "question": "¿Qué es la servidumbre según el Código Civil?",
+        "answer": "La servidumbre es un derecho real que permite a una persona usar de manera limitada un bien inmueble ajeno, en beneficio de otro bien inmueble de su propiedad, como el paso de agua o de personas."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la personalidad jurídica de las personas?",
+        "answer": "El Código Civil establece que todas las personas tienen personalidad jurídica desde su nacimiento y hasta su muerte, lo que les permite ser sujetos de derechos y obligaciones."
+    },
+    {
+        "question": "¿Qué es la emancipación según el Código Civil?",
+        "answer": "La emancipación es el acto por el cual un menor de edad adquiere la capacidad de obrar como si fuera mayor, generalmente a partir de los 18 años o por matrimonio."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la declaración de ausencia?",
+        "answer": "El Código Civil establece que una persona puede ser declarada ausente por un juez cuando haya desaparecido de su domicilio sin dejar noticias, y regula los procedimientos y efectos de dicha declaración."
+    },
+    {
+        "question": "¿Qué es la declaración de muerte presunta según el Código Civil?",
+        "answer": "La declaración de muerte presunta es un acto judicial que se realiza cuando una persona ha desaparecido y no se tienen noticias de ella durante un tiempo determinado, presumiendo su fallecimiento."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre los contratos de arrendamiento?",
+        "answer": "El Código Civil regula los contratos de arrendamiento, estableciendo las obligaciones del arrendador y del arrendatario, la duración del contrato, y las causas de terminación y rescisión."
+    },
+    {
+        "question": "¿Qué es una obligación solidaria según el Código Civil?",
+        "answer": "Una obligación solidaria es aquella en la que cada uno de los deudores está obligado a cumplir con la totalidad de la prestación, y cada uno de los acreedores tiene derecho a exigir el cumplimiento total de la misma."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre las donaciones entre cónyuges?",
+        "answer": "El Código Civil permite las donaciones entre cónyuges, pero establece que pueden ser revocadas en caso de divorcio o de separación judicial."
+    },
+    {
+        "question": "¿Qué es un contrato de mandato según el Código Civil?",
+        "answer": "Un contrato de mandato es un acuerdo por el cual una persona, el mandante, confiere a otra, el mandatario, el poder de representarla y actuar en su nombre para realizar actos jurídicos."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre el derecho de retención?",
+        "answer": "El derecho de retención es la facultad que tiene una persona de retener un bien mueble o inmueble ajeno en su poder hasta que se le pague lo que se le debe en razón de dicho bien."
+    },
+    {
+        "question": "¿Qué es la fianza según el Código Civil?",
+        "answer": "La fianza es un contrato por el cual una persona, el fiador, se compromete a cumplir una obligación ajena en caso de que el deudor principal no lo haga."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre la formación del consentimiento en los contratos?",
+        "answer": "El Código Civil establece que el consentimiento en los contratos debe ser libre, espontáneo y sin vicios como el error, la fuerza o el dolo, para que el contrato sea válido."
+    },
+    {
+        "question": "¿Qué es la obligación natural según el Código Civil?",
+        "answer": "Una obligación natural es aquella que no puede exigirse judicialmente debido a la falta de un requisito legal, pero que si se cumple voluntariamente, no da lugar a la repetición."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre los contratos aleatorios?",
+        "answer": "El Código Civil regula los contratos aleatorios como aquellos en los que la prestación depende de un acontecimiento incierto, que puede generar una ganancia o pérdida para una de las partes."
+    },
+    {
+        "question": "¿Qué es la acción reivindicatoria según el Código Civil?",
+        "answer": "La acción reivindicatoria es el derecho que tiene el propietario de una cosa para reclamarla y recuperarla de quien la posee sin título legítimo."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre los contratos de sociedad?",
+        "answer": "El Código Civil regula los contratos de sociedad, estableciendo que dos o más personas se obligan a poner en común dinero, bienes o industria para obtener una ganancia o beneficio común."
+    },
+    {
+        "question": "¿Qué es el régimen de bienes gananciales según el Código Civil?",
+        "answer": "El régimen de bienes gananciales es el sistema matrimonial por el cual los bienes adquiridos durante el matrimonio se consideran comunes y se reparten equitativamente entre los cónyuges en caso de disolución del matrimonio."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre los contratos de préstamo?",
+        "answer": "El Código Civil regula los contratos de préstamo, distinguiendo entre préstamos de consumo, donde el prestatario se obliga a devolver cosas del mismo género y calidad, y préstamos de uso, donde se debe devolver la misma cosa prestada."
+    },
+    {
+        "question": "¿Qué es el enriquecimiento sin causa según el Código Civil?",
+        "answer": "El enriquecimiento sin causa es el principio según el cual nadie debe enriquecerse a expensas de otro sin una causa justificada, y el perjudicado puede reclamar la restitución del enriquecimiento indebido."
+    },
+    {
+        "question": "¿Qué establece el Código Civil sobre los bienes muebles?",
+        "answer": "El Código Civil regula los bienes muebles como aquellos que pueden trasladarse de un lugar a otro sin perder su esencia, como vehículos, muebles y objetos personales."
+    },
+    {
+        "question": "¿Qué es la prescripción adquisitiva según el Código Civil?",
+        "answer": "La prescripción adquisitiva, o usucapión, es un modo de adquirir la propiedad de un bien mediante su posesión continua y pacífica durante el tiempo que establece la ley."
+    },
+    {
+        "question": "¿Qué es la Ley de Justicia Penal Juvenil en Costa Rica?",
+        "answer": "La Ley de Justicia Penal Juvenil es un marco legal que regula el tratamiento judicial y las sanciones aplicables a los menores de edad que cometen delitos, con un enfoque en la rehabilitación y reintegración social."
+    },
+    {
+        "question": "¿Cuál es la edad mínima de responsabilidad penal según la Ley de Justicia Penal Juvenil?",
+        "answer": "La edad mínima de responsabilidad penal en Costa Rica, según la Ley de Justicia Penal Juvenil, es de 12 años."
+    },
+    {
+        "question": "¿Qué principios rigen la justicia penal juvenil según la ley?",
+        "answer": "La justicia penal juvenil se rige por principios como la proporcionalidad de las sanciones, el interés superior del menor, la reintegración social y el respeto a los derechos humanos."
+    },
+    {
+        "question": "¿Qué medidas socioeducativas se pueden imponer a un menor infractor según la Ley de Justicia Penal Juvenil?",
+        "answer": "Las medidas socioeducativas incluyen amonestación, libertad asistida, prestación de servicios a la comunidad, internamiento en un centro especializado y otras medidas que promuevan la reintegración del menor."
+    },
+    {
+        "question": "¿Qué establece la Ley de Justicia Penal Juvenil sobre la detención preventiva de menores?",
+        "answer": "La Ley establece que la detención preventiva de menores debe ser una medida excepcional, utilizada solo cuando sea estrictamente necesario y por el menor tiempo posible, siempre en instalaciones adecuadas para su edad."
+    },
+    {
+        "question": "¿Cómo se garantiza el derecho a la defensa de los menores en el sistema de justicia penal juvenil?",
+        "answer": "La ley garantiza que los menores tengan derecho a un abogado defensor durante todo el proceso judicial, y a ser informados de sus derechos de manera comprensible para su edad."
+    },
+    {
+        "question": "¿Qué rol juegan los padres o tutores en el proceso penal juvenil?",
+        "answer": "Los padres o tutores deben ser informados y pueden participar activamente en el proceso, acompañando al menor y colaborando con las autoridades para su rehabilitación y reintegración."
+    },
+    {
+        "question": "¿Qué establece la Ley de Justicia Penal Juvenil sobre la confidencialidad de los procedimientos?",
+        "answer": "La ley establece que los procedimientos penales juveniles son confidenciales, y se prohíbe la divulgación de información que pueda identificar al menor infractor, para proteger su privacidad y dignidad."
+    },
+    {
+        "question": "¿Qué es la mediación en el contexto de la justicia penal juvenil?",
+        "answer": "La mediación es un proceso voluntario donde el menor infractor y la víctima, con la ayuda de un mediador, buscan llegar a un acuerdo que repare el daño causado, promoviendo la resolución pacífica de conflictos."
+    },
+    {
+        "question": "¿Qué establece la Ley de Justicia Penal Juvenil sobre la reincidencia?",
+        "answer": "La ley contempla medidas específicas para menores reincidentes, enfocadas en reforzar su rehabilitación y prevenir futuros delitos, siempre considerando su desarrollo y necesidades individuales."
+    }
+]
