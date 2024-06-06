@@ -29,21 +29,6 @@ raw_prompt = PromptTemplate.from_template(
     """
 )
 
-@app.route("/ai", methods=["POST"])
-def aiPost():
-    print("Post /ai called")
-    json_content = request.json
-    query = json_content["query"]
-
-    print(f"query: {query}")
-
-    response = cached_llm.invoke(query)
-
-    print(f"answer: {response}")
-
-    response_answer = {"answer": response}
-    return response_answer
-
 @app.route("/ask_pdf", methods=["POST"])
 def askPDFPost():
     print("Post /ask_pdf called")
