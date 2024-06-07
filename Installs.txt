@@ -1,0 +1,9 @@
+----BASE DE DATOS ---
+pip install chromadb
+chroma run # run the server
+
+---LLAMA3---
+pip install transformers torch
+Página 01: https://huggingface.co/meta-llama/Meta-Llama-3-8B
+Repositorio con pasos: https://github.com/meta-llama/llama3
+Meta: https://llama.meta.com/llama-downloads/

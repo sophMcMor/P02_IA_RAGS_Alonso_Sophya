@@ -6,8 +6,10 @@ y luego lo guardamos para usarlo posteriormente.
 '''
 
 #---------------Pruebas para el fine tuning-------------#
-from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments,BitsAndBytesConfig
 from datasets import Dataset
+from langchain_community.llms import Ollama #Fixing bug
 import json
 
 try:
@@ -16,17 +18,33 @@ try:
 
     # Cargar el modelo pre-entrenado y el tokenizer
     model_name = "meta-llama/Meta-Llama-3-8B"
+    bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype=torch.bfloat16
+    )
     print("Cargando el tokenizer")
     tokenizer = AutoTokenizer.from_pretrained(model_name, token="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")
     tokenizer.pad_token = tokenizer.eos_token
     print("Tokenizer cargado")
 
     print("Cargando el modelo")
+    # model = AutoModelForCausalLM.from_pretrained(
+    #     model_name,
+    #     token="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"
+    # )
     model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        token="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"
+    model_name,
+    device_map ="auto",
+    quantization_config = bnb_config,
+    token = "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"
     )
+    #Cargar el modelo con la configuración de cuantificación
+
     print("Modelo cargado")
+    
+
 
     # Cargar el dataset de fine-tuning desde un archivo JSON
     print("Cargando el dataset")

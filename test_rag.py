@@ -10,13 +10,13 @@ Actual Response: {actual_response}
 (Answer with 'true' or 'false') Does the actual response match the expected response?
 """
 
-def test_whatever():
+def test_one():
     assert query_and_validate(
         question="¿Qué derechos establece la Constitución de Costa Rica?",
         expected_response="Derecho a la vida, derecho a la educación, derecho a la salud, derecho al trabajo."
     )
 
-#Prompt para validar la respuesta dada por elmodelo y la respuesta esperada
+#Prompt para validar la respuesta dada por el modelo y la respuesta esperada
 def query_and_validate(question: str, expected_response: str):
     #Está fallando porque jala el estado de la respuesta y no la respuesta
 
@@ -32,7 +32,7 @@ def query_and_validate(question: str, expected_response: str):
     print("---Response Text.text[answer]: ---", response_text.text["answer"]) 
 
     prompt = EVAL_PROMPT.format(
-         expected_response=expected_response, actual_response=response_text
+         expected_response=expected_response, actual_response=response_text.text
     )
 
     model = Ollama(model="llama3")
@@ -54,4 +54,4 @@ def query_and_validate(question: str, expected_response: str):
             f"Invalid evaluation result. Cannot determine if 'true' or 'false'."
         )
     
-test_whatever()
+test_one()
